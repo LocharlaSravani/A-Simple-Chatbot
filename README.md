@@ -1,2 +1,36 @@
 # A-Simple-Chatbot-
-A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity)The classic historic early chatbots are ELIZA (1966) and PARRY (1972).More recent notable programs include A.L.I.C.E., Jabberwacky and D.U.D.E (Agence Nationale de la Recherche and CNRS 2006). While ELIZA and PARRY were used exclusively to simulate typed conversation, many chatbots now include functional features such as games and web searching abilities. In 1984, a book called The Policeman's Beard is Half Constructed was published, allegedly written by the chatbot Racter (though the program as released would not have been capable of doing so).  One pertinent field of AI research is natural language processing. Usually, weak AI fields employ specialized software or programming languages created specifically for the narrow function required. For example, A.L.I.C.E. uses a markup language called AIML, which is specific to its function as a conversational agent, and has since been adopted by various other developers of, so called, Alicebots. Nevertheless, A.L.I.C.E. is still purely based on pattern matching techniques without any reasoning capabilities, the same technique ELIZA was using back in 1966. This is not strong AI, which would require sapience and logical reasoning abilities.  Jabberwacky learns new responses and context based on real-time user interactions, rather than being driven from a static database. Some more recent chatbots also combine real-time learning with evolutionary algorithms that optimise their ability to communicate based on each conversation held. Still, there is currently no general purpose conversational artificial intelligence, and some software developers focus on the practical aspect, information retrieval.  Chatbot competitions focus on the Turing test or more specific goals. Two such annual contests are the Loebner Prize and The Chatterbox Challenge (offline since 2015, materials can still be found from web archives).  According to Forrester (2015), AI will replace 16 percent of American jobs by the end of the decade.Chatbots have been used in applications such as customer service, sales and product education. However, a study conducted by Narrative Science in 2015 found that 80 percent of their respondents believe AI improves worker performance and creates jobs.[citation needed] is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.  The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot, Julia) in 1994 to describe these conversational programs.Today, most chatbots are either accessed via virtual assistants such as Google Assistant and Amazon Alexa, via messaging apps such as Facebook Messenger or WeChat, or via individual organizations' apps and websites. Chatbots can be classified into usage categories such as conversational commerce (e-commerce via chat), analytics, communication, customer support, design, developer tools, education, entertainment, finance, food, games, health, HR, marketing, news, personal, productivity, shopping, social, sports, travel and utilities. Background
+Description:
+A simple conversational AI chatbot that simulates human-like interaction using natural language processing (NLP) techniques. The project explores classic and modern chatbot models, leveraging pattern matching, real-time learning, and NLP to provide an interactive user experience. It aims to offer a basic framework that can be expanded with more advanced AI features in the future.
+
+Key Features:
+Pattern Matching: Implements basic keyword-based pattern matching to generate responses (inspired by early chatbots like ELIZA).
+Real-Time Learning: Adapts to user interactions, improving its responses with each conversation (similar to Jabberwacky).
+Natural Language Processing: Uses NLP techniques to enhance the chatbot’s ability to understand and respond to a wide variety of user inputs.
+Conversational AI: Simulates human conversation for applications like customer service, education, and entertainment.
+Technologies Used:
+Python: Core programming language for building the chatbot’s backend.
+Jupyter Notebook: For prototyping and experimenting with AI models.
+Natural Language Processing (NLP): Techniques to understand and process text input.
+Pattern Matching: A foundational technique used for generating responses.
+Installation Instructions:
+Clone this repository to your local machine.
+Install the required dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Run the chatbot using the provided Python script or Jupyter Notebook.
+How to Use:
+Launch the chatbot.py script or open the Chatbot.ipynb Jupyter Notebook.
+Interact with the chatbot through text-based input.
+Observe how the chatbot adapts and responds based on previous interactions.
+Contributing:
+Feel free to fork this repository, open issues, or submit pull requests with enhancements. Contributions are welcome to expand the chatbot’s functionality, improve NLP techniques, or add new features like voice interaction.
+
+Future Work:
+Expand conversational capabilities using more advanced NLP models (e.g., GPT-based).
+Integrate additional features such as web searching and game-playing capabilities.
+Enhance real-time learning with evolutionary algorithms for better context understanding.
+License:
+MIT License. See LICENSE file for details.
+
+This description covers the project's purpose, technical details, and encourages collaboration, making it clear for others who might be interested in using or contributing to the chatbot.ehave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.  The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot, Julia) in 1994 to describe these conversational programs.Today, most chatbots are either accessed via virtual assistants such as Google Assistant and Amazon Alexa, via messaging apps such as Facebook Messenger or WeChat, or via individual organizations' apps and websites. Chatbots can be classified into usage categories such as conversational commerce (e-commerce via chat), analytics, communication, customer support, design, developer tools, education, entertainment, finance, food, games, health, HR, marketing, news, personal, productivity, shopping, social, sports, travel and utilities. Background
